@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-197916%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172504%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 170 Contributions in the Year 2020
+> 🏆 171 Contributions in the Year 2020
  > 
 > 📦 484.2 kB Used in Github's Storage 
  > 
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 ```text
 Monday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Tuesday      33 commits     ██████░░░░░░░░░░░░░░░░░░░   26.61% 
+Tuesday      34 commits     ██████░░░░░░░░░░░░░░░░░░░   27.42% 
 Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
 Thursday     30 commits     ██████░░░░░░░░░░░░░░░░░░░   24.19% 
 Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Saturday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
+Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
 Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
 
 ```
