@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172007%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-198217%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -61,14 +61,14 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 hrs 11 mins       ████████████████████████░   96.82% 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18%
+Java                     4 hrs 9 mins        ████████████████████████░   95.53% 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
 
 🐱‍💻 Projects: 
-algoProblems             7 hrs 25 mins       █████████████████████████   100.0%
+algoProblems             4 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 25 mins       █████████████████████████   100.0%
+Windows                  4 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
