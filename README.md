@@ -61,14 +61,13 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     8 mins              ████████████████████████░   98.25% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-algoProblems             8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
